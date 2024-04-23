@@ -237,6 +237,7 @@
 
     .banner-image {
         width: 42%;
+     display:none;
     }
     .banner-para {
         padding: 15px 0px 30px 0px;
