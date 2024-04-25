@@ -60,6 +60,13 @@
     .banner-para {
         padding: 15px 0px 50px 0px;
     }
+    header.banner-bg {
+        min-height: 70vh;
+    }
+    .banner-area {
+        min-height: 60vh;
+    }
+    
 }
 
 /* `lg` applies to medium devices (tablets, less than 992px)*/
@@ -106,6 +113,7 @@
     p {
       font-size: 16px;
     }
+    
     section {
         padding: 30px 0px;
     }
@@ -185,6 +193,12 @@
     footer {
         padding: 25px 0px;
     }
+    header.banner-bg {
+        min-height: 50vh;
+    }
+    .banner-area {
+        min-height: 50vh;
+    }
     
 }
 
@@ -234,10 +248,11 @@
     section {
         padding: 30px 0px;
     }
+    
 
     .banner-image {
         width: 42%;
-     display:none;
+        display: none;
     }
     .banner-para {
         padding: 15px 0px 30px 0px;
