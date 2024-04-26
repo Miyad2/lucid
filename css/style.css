@@ -757,16 +757,16 @@ section.map-section {
 /* ================  Foooter  ================ */
 
 footer {
-  background: var(--footer);
-  color: #000000;
-  padding: 30px 0px;
+    background: var(--footer);
+    color: #000000;
+    padding: 20px 0px;
 }
 .footer-social ul {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  align-items: center;
-  margin-bottom: 18px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 .footer-social ul li a svg {
