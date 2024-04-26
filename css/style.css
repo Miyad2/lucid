@@ -591,7 +591,8 @@ section.testimonial-section .details-title h3 {
 }
 
 .meta-details p {
-  color: #fff;
+    color: #fff;
+    font-size: 14px;
 }
 .slick-dots li.slick-active button:before {
   opacity: .75;
