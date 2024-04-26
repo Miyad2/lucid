@@ -604,7 +604,10 @@ section.testimonial-section .details-title h3 {
 
 section.view-features {
   background: #15141a;
-  padding: 50px 0px;
+  padding: 30px 0px;
+}
+.row.align-div {
+    align-items: center;
 }
 .view-features-left-text h3 {
   color: #fff;
