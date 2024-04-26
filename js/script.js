@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
   
-  $('.variable-width').slick({
+  $('.multiple-items').slick({
     dots: true,
     infinite: true,
     speed: 300,
