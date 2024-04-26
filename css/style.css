@@ -610,7 +610,8 @@ section.view-features {
     align-items: center;
 }
 .view-features-left-text h3 {
-  color: #fff;
+    color: #fff;
+    font-size: 25px;
 }
 .view-features-left-text span {
   font-weight: 200;
