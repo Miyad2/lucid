@@ -24,7 +24,10 @@
 @media (max-width: 1199.98px) {
  
     h1 {
-        font-size: 50px;
+        font-size: 45px;
+      }
+ h2 {
+        font-size: 45px;
       }
       
     h4 {
@@ -67,10 +70,10 @@
         padding: 15px 0px 50px 0px;
     }
     header.banner-bg {
-        min-height: 70vh;
+        min-height: 100vh;
     }
     .banner-area {
-        min-height: 60vh;
+        min-height: 100vh;
     }
     
 }
