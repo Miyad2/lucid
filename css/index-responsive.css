@@ -70,10 +70,10 @@
         padding: 15px 0px 50px 0px;
     }
     header.banner-bg {
-        min-height: 100vh;
+        min-height: 70vh;
     }
     .banner-area {
-        min-height: 100vh;
+        min-height: 70vh;
     }
  iframe {
     height: 300px;
