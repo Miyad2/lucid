@@ -398,7 +398,7 @@
         font-size: 16px;
     }
     .slider-text {
-        padding: 25px 50px;
+        padding: 25px 0px;
         text-align: center;
     }
     .slick-dots li.slick-active button:before {
@@ -417,6 +417,10 @@
     .view-features-left-text {
         text-align: center;
     }
+ }
+.meta-tag {
+    justify-content: center;
+}
     .pricing-part {
         width: 80%;
         margin: auto;
