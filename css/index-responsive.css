@@ -478,6 +478,12 @@
         width: 15px;
         height: 15px;
     }
+     header.banner-bg {
+        min-height: 50vh;
+    }
+    .banner-area {
+        min-height: 50vh;
+    }
      /* .row.contact-sm-grid {
         display: grid;
         grid-template-columns: 50% 50%;
