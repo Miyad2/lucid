@@ -187,6 +187,7 @@ nav.navbar.navbar-expand-lg.navbar-expand-lg a {
   position: relative;
   color: #fff;
   letter-spacing: 2px;
+      display: inline;
 }
 a.nav-link::before {
   content: "";
