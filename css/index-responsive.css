@@ -146,6 +146,7 @@
         background: #232323c2;
         width: 100%;
         padding: 2px 15px;
+             text-align: center;
     }
     nav.navbar.navbar-expand-lg.navbar-expand-lg a {
         padding: 0;
