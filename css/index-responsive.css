@@ -439,9 +439,9 @@
     .contact-details {
         padding: 10px 0px;
     }
-    form.form-group {
+/*     form.form-group {
         width: 100%;
-    }
+    } */
     .form-full-part {
         flex-direction: column;
     }
