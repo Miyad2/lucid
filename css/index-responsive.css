@@ -151,11 +151,17 @@
     nav.navbar.navbar-expand-lg.navbar-expand-lg a {
         padding: 0;
     }
-    .banner-area .banner-content {
+        .banner-area .banner-content {
         width: 100%;
+        z-index: 1;
+        position: relative;
     }
-    .banner-image {
-        width: 41%;
+        .banner-image {
+        width: 65%;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%, 0%);
     }
     .banner-para {
         padding: 15px 0px 30px 0px;
