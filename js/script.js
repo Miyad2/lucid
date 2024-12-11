@@ -3,12 +3,12 @@ $(document).ready(function(){
   
   $('.multiple-items').slick({
     dots: true,
-    infinite: true,
+    infinite: false,
     speed: 300,
     slidesToShow: 2,
-    autoplay:true,
+    autoplay: false,
     slidesToScroll: 1,
-    arrows:false,
+    arrows :false,
     pauseOnHover: false,
     
   
