@@ -218,12 +218,10 @@
     footer {
         padding: 25px 0px;
     }
-/*     header.banner-bg {
-        min-height: 50vh;
-    }
-    .banner-area {
-        min-height: 50vh;
-    } */
+ .slider-text h4 {
+    font-size: 17px;
+}
+
     
 }
 
